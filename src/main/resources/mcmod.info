@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "ckore",
+    "name": "ckore",
+    "description": "My First Mod",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Wilson Wu"],
+    "credits": "All of my friends",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
